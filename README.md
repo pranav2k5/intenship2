@@ -1,963 +1,130 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
+<title> Narendra Modi</title>
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="index.css" />
-    <title>Go Trip</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
+  <div class = "bagound-iamge">
+    <div class = " b">
+    <h1 class =" a">-NARENDRA  MODI-</h1>
+    </div>dd
+<br>
+    <img class ="polaroid"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png/330px-Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png" width="400" height=400">
+    
+    <h3 class = "sty">About:<strong> NARENDRA DAMODARDAS MODI</strong></h3>
+  <p class ="p">
+<br>
+1. Political Career and Leadership: Narendra Modi is a prominent Indian politician and a member of the Bharatiya Janata Party (BJP). He was the Chief Minister of Gujarat from 2001 to 2014 and later became the Prime Minister of India in May 2014. He was re-elected as Prime Minister in the 2019 general elections. During his tenure as Prime Minister, Modi implemented various economic and social reforms and launched initiatives like "Make in India," "Digital India," and "Swachh Bharat Abhiyan" (Clean India Campaign).<br>
+<br>
+    <br>
+2. Economic Policies: Modi's government has pursued several economic policies aimed at promoting growth, attracting foreign investment, and improving infrastructure. Some of the key initiatives include the Goods and Services Tax (GST), the Insolvency and Bankruptcy Code (IBC), and measures to enhance ease of doing business in India.
+<br>
+    <br>
+3. Controversies and Criticisms: Modi's leadership has been subject to both praise and criticism. While supporters laud his efforts to strengthen India's position on the global stage handling of certain domestic challenges. His government's decision on demonetization in 2016 and the implementation of the Citizenship Amendment Act (CAA) have also been subjects of debate and criticism.
+  </p>
+    <br>
 
-    <body>
+<h3 class = "sty"><strong> Narendra Modi: Early Life and Education </strong></h3>  
+   
 
-        <!--===========Nav Bar=================-->
-        <section class="nav-bar">
-            <div class="logo">Go Trip</div>
-            <ul class="menu">
-                <li><a href="#">home</a></li>
-                <li><a href="#">tours</a></li>
-                <li><a href="#">package</a></li>
-                <li><a href="#">blog</a></li>
-                <li><a href="#">about us</a></li>
-                <li><a href="#">contact us</a></li>
-            </ul>
-            </div>
 
-        </section>
-        <!--===============Banner================-->
-        <section class="banner">
-            <div class="banner-text-item">
-                <div class="banner-heading">
-                    <h1>Find your Next tour!</h1>
-                </div>
-                <form class="form">
-                    <input type="text" list="mylist" placeholder="ENTER YOUR FAVORITE PLACE ">
-                    <datalist id="mylist">
-                        <option>HYDERABAD</option>
-                        <option>BANGLORE</option>
-                        <option>TIRUPATHI</option>
-                        <option>PUNE</option>
-                        <option>KASHMIR</option>
-                        <option>ASSAM</option>
-                        <option>MADHYA PRADESH</option>
-                    </datalist>
-                    <input type="date" class="date">
-                    <a href="#" class="book">book</a>
-                </form>
-            </div>
-        </section>
+   
+<p class ="p">
+ 1.<strong> Birth and Childhood</strong>: Narendra Modi was born on September 17, 1950, in Vadnagar, a small town in the state of Gujarat, India. He grew up in a modest family and faced financial hardships during his early years. He helped his father in selling tea at the local railway station as a young boy.<br>
+  <br>
+<br>
+     <img class="young" src = "https://tse3.mm.bing.net/th?id=OIP.Xcl9bqP0cylq2QniYEx0VAHaD2&pid=ImgDet&rs=1"<br>
+  
+2.<strong>Early Education and Spirituality</strong>strong>: Modi showed an interest in reading and learning from an early age. He completed his higher secondary education in Vadnagar and then moved to Ahmedabad, Gujarat, where he pursued a degree in political science from the University of Delhi. During his youth, he developed an interest in spirituality and joined the Rashtriya Swayamsevak Sangh (RSS), a Hindu nationalist organization, which laid the foundation for his future political career.<br>
+  
+<br>
+  <br>
+3. <strong>Struggles and Journey to Politics</strong>strong>: Modi worked as a full-time pracharak (promoter) for the RSS and later joined the BJP in 1987. In 2001, he became the Chief Minister of Gujarat, a position he held until 2014 when he became the Prime Minister of India after a decisive victory in the general elections. His early life experiences and dedication to public service shaped his political journey and leadership style.
+<br>
+<br>
+</p>
+    <br>
+    <br>
+    <h3 class = "sty"><strong>Narendra Modi Family</strong></h3>
+  
+      <p class ="p">
+1. Parents and Siblings: Narendra Modi was born to Damodardas Mulchand Modi and Heeraben Modi. His father, Damodardas, worked as a tea vendor and played a crucial role in Narendra Modi's upbringing. Heeraben Modi is his mother. Narendra Modi is the third of six children, and he grew up in a close-knit family in Vadnagar, <br>
+<br>
+      <br>
+ <img class="young" src = "https://starsunfolded.com/wp-content/uploads/2017/06/Narendra-Modi-with-his-Mother-left-and-other-Family-Members.jpg"<br>
+2. Marital Status: Narendra Modi is known to be a private person when it comes to his personal life. As of my last update in September 2021, he was considered unmarried and was reported to be single throughout his life. He has not publicly disclosed any information regarding his marital status or family life.<br>
+      <br>
+<br>
+3. Relationship with His Family: Narendra Modi is known to have a close bond with his mother, Heeraben Modi. Despite his busy schedule as the Prime Minister, he often made efforts to spend time with her and has been seen seeking her blessings during significant occasions. However, apart from his relationship with his mother, not much information is publicly available about his relationship with his extended family or siblings due to his preference for privacy in personal matters.<br>
+<br>
+    </p>
+     <br>
+      <br>
+<h3 class = "sty"><strong>Narendra Modi: Early Political Career</strong></h3><br>
+    <p class ="p">
+     1. Early Political Involvement: Narendra Modi's interest in politics began during his youth when he joined the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist organization. He worked as a full-time pracharak (promoter) for the RSS, which involved grassroots-level organizing and ideological work. This early association with the RSS laid the foundation for his political journey.<br>
+<br>
+      <br>
+      <img class="young" src = "https://th.bing.com/th/id/OIP.mxnuJxVc6kLRDekfloeQewHaEc?w=263&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"<br>
+2. Joining the Bharatiya Janata Party (BJP): In 1987, Narendra Modi joined the Bharatiya Janata Party (BJP), which is closely aligned with the RSS. His organizational skills and dedication to the party led to a steady rise within its ranks. He held various positions in the BJP, including serving as the General Secretary and National Secretary.<br>
+<br>
+      <br>
+3. Chief Minister of Gujarat: Narendra Modi's big break in politics came in October 2001 when he was appointed as the Chief Minister of Gujarat.  He went on to be re-elected as the Chief Minister multiple times and gained both praise and criticism for his governance in the state.<br>
+<br>
+    </p>
+<br>
+   <br>
+  <h3 class = "sty"><strong>NOTABLE AWARDS AND HONORS RECEIVED BY NARENDRA MODI</strong></h3>
+ <p class ="p">
+<img class="young" src = "https://www.thehindubusinessline.com/migration_catalog/article18300962.ece/alternates/LANDSCAPE_615/MODI-AWARD"<br>
+1.<strong> **Order of St. Andrew the Apostle (Russia, 2019)**</strong>: Narendra Modi was conferred with the Order of St. Andrew the Apostle, the highest civilian award of Russia, in recognition of his efforts to strengthen the bilateral ties between India and Russia.<br>
+<br>
+   <br>
+2.<strong> **State Order of Ghazi Amir Amanullah Khan (Afghanistan, 2016)**</strong>: He was awarded Afghanistan's highest civilian honor for his role in fostering India-Afghanistan relations and for India's contribution to the development of Afghanistan.<br>
+   <br>
+<br>
+3.<strong> **Grand Collar of the State of Palestine (Palestine, 2018)**</strong>: Modi was honored with the Grand Collar, the highest civilian award of Palestine, for his support to the Palestinian cause and strengthening ties between India and Palestine.<br>
+<br>
+    <img class="young" src = "https://media.indiatimes.in/media/facebook/2019/Feb/narendra_modi_1550820424_800x420.jpg"<br>
+   <br>
+4. <strong>**King Abdulaziz Sash (Saudi Arabia, 2016)**</strong>: He was presented with the King Abdulaziz Sash, the highest civilian honor of Saudi Arabia, in recognition of his efforts to boost India-Saudi Arabia relations.<br>
+   <br>
+<br>
+  
+5.<strong>**Zayed Medal (United Arab Emirates, 2019)**</strong>: Modi was awarded the Order of Zayed, the highest civilian award of the United Arab Emirates, in recognition of his role in strengthening India-UAE ties.
+</p>
+<br>
+<br>
+    <h3 class = "sty"><strong>MAJOR SCHEMES INITIATED BY NARENDRA MODIy</strong></h3>
 
-        <!--=========Services===============-->
-        <section class="services">
-            <div class="service-item">
-                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293634/tour-guide_onzla9.png">
-                <h2>8000+ Our Local Guides</h2>
-            </div>
-            <div class="service-item">
-                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293738/reliability_jbpn4g.png">
-                <h2>100% Trusted Tour Agency</h2>
-            </div>
-            <div class="service-item">
-                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293635/experience_a3fduk.png">
-                <h2>28+ Years of Travel Experience</h2>
-            </div>
-            <div class="service-item">
-                <img src="https://www.bing.com/th?id=Abd63HMDX2oiEUw480x360&w=248&h=140&c=8&rs=1&qlt=90&dpr=1.3&pid=3.1&rm=2">
-                <h2>98% Our Travelers are Happy</h2>
-            </div>
-        </section>
-        <!--==============Places===================-->
-        <section class="places">
-            <div class="places-text">
-                <small>FEATURED TOURS PACKAGES</small>
-                <h2>Golconda Fort</h2>
-            </div>
+<p class ="p">
+   <img class="final" src = "https://www.jagranjosh.com/imported/images/E/Articles/Prime-Minister-Schemes-Launched.jpg"<br>
+1.<strong> **Pradhan Mantri Jan Dhan Yojana (PMJDY)**</strong>: Launched in 2014, this financial inclusion scheme aimed to provide access to banking services to every household in India. It encouraged people to open bank accounts with various benefits like zero balance requirements, life insurance coverage, and access to credit facilities.<br>
+<br>
+  <br>
+  
+2. <strong>**Swachh Bharat Abhiyan (Clean India Mission)**</strong>: Launched on October 2, 2014, this nationwide cleanliness campaign aimed to achieve universal sanitation and eliminate open defecation across India. It also focused on waste management and promoting cleanliness in public spaces.<br>
+<br>
+3. <strong>**Pradhan Mantri Ujjwala Yojana (PMUY)**</strong>: Launched in 2016, this scheme aimed to provide free LPG (liquefied petroleum gas) connections to below-poverty-line households, thus promoting clean cooking fuel and reducing the health hazards associated with traditional cooking methods.<br>
+  <br>
+  <br>
+  4. <strong>**Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)**</strong>: Launched in 2018, this ambitious healthcare scheme aimed to provide health insurance coverage to over 500 million vulnerable individuals in India. It aimed to cover medical expenses up to a certain amount for eligible beneficiaries.<br>
+  <br>
+<br>
+<br>
+</p>
 
-            <div class="cards">
-                <div class="card">
-                    <div class="zoom-img">
-                        <div class="img-card">
-                            <img
-                                src="https://www.bing.com/th?id=AEwC0grG5FoMBwQ480x360&w=248&h=140&c=8&rs=1&qlt=90&dpr=1.3&pid=3.1&rm=2">
-                        </div>
-                    </div>
 
-                    <div class="text">
-                        <span class="rating">⭐⭐⭐⭐⭐</span>
-                        <h2>Howrah Bridge</h2>
-                        <p class="cost">$1870 / Per Person</p>
-                        <div class="card-box">
-                            <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ West Bengal, INDIA</p>
-                        </div>
-                    </div>
+    
 
-                </div>
-                <div class="card">
-                    <div class="zoom-img">
-                        <div class="img-card">
-                            <img src="https://www.bing.com/th?id=Aw7Oqqnrkrri9Tg480x360&w=253&h=140&c=8&rs=1&qlt=90&dpr=1.3&pid=3.1&rm=2">
-                        </div>
-                    </div>
-
-                    <div class="text">
-                        <span class="rating">⭐⭐⭐⭐⭐</span>
-                        <h2>National Museum</h2>
-                        <p class="cost">$1870 / Per Person</p>
-                        <div class="card-box">
-                            <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ Hyderabad, INDIA</p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card">
-                    <div class="zoom-img">
-                        <div class="img-card">
-                            <img src="https://www.bing.com/th?id=AkgQcviufReq8Sg480x360&w=264&h=140&c=8&rs=1&qlt=90&dpr=1.3&pid=3.1&rm=2">
-                        </div>
-                    </div>
-
-                    <div class="text">
-                        <span class="rating">⭐⭐⭐⭐⭐</span>
-                        <h2>Salar Jung Museum</h2>
-                        <p class="cost">$1870 / Per Person</p>
-                        <div class="card-box">
-                            <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ HYDERABAD , INDIA</p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card">
-                    <div class="zoom-img">
-                        <div class="img-card">
-                            <img
-                                src="https://www.bing.com/th?id=AxP0kntliGwuHbw480x360&w=249&h=140&c=8&rs=1&qlt=90&dpr=1.3&pid=3.1&rm=2">
-                        </div>
-                    </div>
-
-                    <div class="text">
-                        <span class="rating">⭐⭐⭐⭐⭐</span>
-                        <h2>CHARMINAR</h2>
-                        <p class="cost">$1870 / Per Person</p>
-                        <div class="card-box">
-                            <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ HYDERABAD, TELANGANA</p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card">
-                    <div class="zoom-img">
-                        <div class="img-card">
-                            <img src="https://th.bing.com/th/id/OIP.UCFPWm_Ur22u9Gaox60GCgHaFj?pid=ImgDet&rs=1">
-                        </div>
-                    </div>
-
-                    <div class="text">
-                        <span class="rating">⭐⭐⭐⭐⭐</span>
-                        <h2>TAJ MAHAL </h2>
-                        <p class="cost">$1870 / Per Person</p>
-                        <div class="card-box">
-                            <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ AGRA, INDIA</p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card">
-                    <div class="zoom-img">
-                        <div class="img-card">
-                            <img
-                                src="https://th.bing.com/th?id=Ak/YWZscXzOLu9A480x360&rs=1&pid=ImgDet">
-                        </div>
-                    </div>
-
-                    <div class="text">
-                        <span class="rating">⭐⭐⭐⭐⭐</span>
-                        <h2>HAWA MAHAL </h2>
-                        <p class="cost">$1870 / Per Person</p>
-                        <div class="card-box">
-                            <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ RAJASTHAN, INDIA</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--===========About Us===============-->
-        <section class="about">
-            <div class="about-img">
-                <img src="https://th.bing.com/th/id/R.7517553b950564edfd517c6531132bd0?rik=1uMPTK%2bCO%2fgXDQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-CUc_JpHDYRQ%2fTo3kSz0CvvI%2fAAAAAAAAAxU%2fB6rlmvqyqlQ%2fs1600%2fNYCTourists-01.jpg&ehk=JDQngCVdehDQybFyNeHLG2cYknPII4Xe3vvinZ7xYGs%3d&risl=&pid=ImgRaw&r=0">
-            </div>
-            <div class="about-text">
-                <small>ABOUT OUR COMPANY</small>
-                <h2>We are Go Trip Ravels Support Company</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud</p>
-
-                <label><input type="checkbox" checked>BEST WEBSITE TO BOOK</label>
-                <label><input type="checkbox" checked>EASY TO BOOK</label>
-                <label><input type="checkbox" checked>GET MORE OFFERS</label>
-                <label><input type="checkbox" checked>CHEAPEST TICKETS AVAILABLE HERE</label>
-                <a href="#">ABOUT US</a>
-            </div>
-        </section>
-
-        <!--===========Footer=================-->
-        <div class="footer">
-            <div class="links">
-                <h3>Quick Links</h3>
-                <ul>
-                    <li>Offers & Discounts</li>
-                    <li>Get Coupon</li>
-                    <li>Contact Us</li>
-                    <li>About</li>
-                </ul>
-            </div>
-            <div class="links">
-                <h3>New Products</h3>
-                <ul>
-                    <li>Woman Cloth</li>
-                    <li>Fashion Accessories</li>
-                    <li>Man Accessories</li>
-                    <li>Rubber made Toys</li>
-                </ul>
-            </div>
-            <div class="links">
-                <h3>Support</h3>
-                <ul>
-                    <li>Frequently Asked Questions</li>
-                    <li>Report a Payment Issue</li>
-                    <li>Terms & Conditions</li>
-                    <li>Privacy Policy</li>
-                </ul>
-            </div>
-        </div>
-    </body>
-
-</html>
+    
+</div>
+    
 </body>
 
 </html>
-.a{
-    text-align: center;
-    color: lightcyan;
-    text-shadow: 5px 5px 10px #e8e8e8;
-              font-size: 4vh;
-    font-family: Monospace;
-  }
-  .bagound-iamge{
-    background-image: url("https://wallpapercave.com/wp/wp3416336.jpg");
-      background-size: cover;
-    padding: 55px;
-    height: 700vh;
-    display : inline-block;
-    width: 100vw;
-  }
-  .sty{
-    text-shadow: 6px 6px 6px #dfe30d;
-   font-family: Gill Sans;
-   color: white;
-  }
-  .b{
-    margin: auto;
-    width: 50%;
-    border: 4px solid green;
-    padding: 10px;
-    background-color: gray;
-  }
-  .p{
-   background-color: rgb(2, 62, 242, 0.25);
-              object-fit: cover;
-              box-shadow: 20px 20px 20px #2f06f9;
-              font-family: Georgia;
-              padding: 25px 25px;
-              margin: 11px;
-             color:white;
-              margin-top: 50px;
-             max-width: 300%;
-             max-height: 150%;
-  }
-  .polaroid {
-    border-radius: 300%;
-     display: block;
-    margin-left: left;
-    margin-right: auto;
-    width: 35%;
-  }
-  .young{
-    max-width: 300px;
-    max-height: 150px;
-    float: right;
-    padding: 25px;
-    object-fit: cover;
-  }
-  .final{
-    max-width: 100%;
-    height: auto;
-  }
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-}
-
-body,
-html {
-  margin: 0;
-  padding: 0;
-}
-
-/*------------------------Scroll Bar-----------------------*/
-::-webkit-scrollbar {
-  width: 20px;
-}
-
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px grey;
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: darkred;
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background-color: #26e30d;
-}
-
-/*========================Nav Bar=========================*/
-.nav-bar {
-  display: flex;
-  flex-flow: row wrap;
-  width: 100%;
-  height: 90px;
-  background-color: #030202;
-  box-shadow: 3px 3px 10px lightslategray;
-  align-items: center;
-  justify-content: center;
-  position: sticky;
-  top: 0;
-  z-index: 1;
-}
-
-.logo {
-  flex: 1;
-  font-size: 40px;
-  padding: 20px;
-  margin-left: 50px;
-  font-family: Satisfy;
-}
-
-ul.menu {
-  flex: 1;
-  display: flex;
-  flex-flow: row wrap;
-}
-
-.menu li {
-  flex: 1;
-  list-style-type: none;
-  font-size: 16px;
-  font-family: "Barlow Condensed";
-  text-align: center;
-}
-
-.menu li a {
-  text-decoration: none;
-  color: #000;
-  text-transform: uppercase;
-}
-
-.menu li a:hover {
-  color: #4cc71f;
-  text-decoration: underline;
-}
-
-/*=============================Banner=============================*/
-.banner {
-  background-image: url("https://th.bing.com/th/id/OIP.XCq_5DMu61Wp7fGkfnMFeQHaE6?pid=ImgDet&rs=1");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  /*overflow: hidden;*/
-  width: 100%;
-  height: 100vh;
-  text-align: center;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.banner::before {
-  content: "";
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background-color: rgba(0, 0, 0, 0.2);
-  /*background-size: 100%;*/
-}
-
-.banner-text-item {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  display: flex;
-  flex-flow: column wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.banner-heading {
-  flex: 1;
-}
-
-.banner-heading h1 {
-  font-size: 100px;
-  font-weight: normal;
-  color: #e2dd5a;
-  font-family: Satisfy;
-}
-
-.banner-text-item .form {
-  flex: 1;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-radius: 5px;
-  width: 70%;
-  padding: 1% 2%;
-}
-
-.banner-text-item input,
-.banner-text-item .date,
-.banner-text-item .book {
-  padding: 15px;
-  margin-right: 10px;
-  font-size: 18px;
-  font-family: Roboto;
-  border-radius: 5px;
-  outline: 0;
-  border: none;
-}
-
-.banner-text-item input {
-  width: 50%;
-  flex: 2;
-}
-
-.banner-text-item .date {
-  width: 20%;
-  flex: 1;
-}
-
-.banner-text-item .book {
-  width: 20%;
-  flex: 1;
-}
-
-.banner-text-item .book {
-  text-decoration: none;
-  color: #000;
-  text-transform: uppercase;
-  padding: 15px;
-  cursor: pointer;
-  background-color: #e6d23d;
-  font-size: 16px;
-  font-weight: normal;
-  font-family: "Barlow Condensed";
-  width: 20%;
-}
-
-/*===========================Services===========================*/
-.services {
-  display: flex;
-  flex-flow: row;
-  align-items: center;
-  justify-content: center;
-}
-
-.service-item {
-  flex: 1;
-  padding: 50px 10px;
-  border: #ee4444 solid 1px;
-  text-align: center;
-  margin: 180px 50px;
-  transition: all 1s;
-  display: flex;
-  flex-flow: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.service-item:hover {
-  box-shadow: 3px 3px 20px #4792f5;
-}
-
-.service-item h2 {
-  font-family: Barlow Condensed;
-  font-size: 18px;
-  width: 120px;
-  color: #001f38;
-  flex: 1;
-}
-
-.service-item img {
-  width: 60px;
-  height: 60px;
-  flex: 1;
-}
-
-/*=============================Places===============================*/
-.places-text {
-  text-align: center;
-  margin-bottom: 50px;
-}
-
-.places-text small {
-  font-family: Roboto;
-  color: #5d05ff;
-  font-size: 15px;
-  font-weight: bolder;
-}
-
-.places-text h2 {
-  font-family: Barlow Condensed;
-  font-size: 55px;
-  color: #191d34;
-  letter-spacing: 1px;
-}
-
-.cards {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  grid-gap: 30px;
-  align-items: center;
-  justify-items: center;
-  text-align: center;
-}
-
-.card {
-  border: 1px solid #490af5;
-  box-shadow: 2px 2px 6px 0 rgba(0, 0, 0, 0.3);
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  width: 80%;
-  height: auto;
-}
-
-.card img {
-  max-width: 100%;
-  height: 300px;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-.cards .text {
-  padding: 20px;
-  font-family: Barlow Condensed;
-  line-height: 50px;
-}
-
-.cards .card-box {
-  display: flex;
-  flex-flow: row;
-  background-color: #ea8d0b;
-  font-size: 18px;
-  font-family: Roboto;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.cards .time {
-  flex: 1;
-}
-
-.cards .location {
-  flex: 2;
-}
-
-.cards .cost {
-  color: #4cafad;
-  font-size: 20px;
-}
-
-/*------------Zoom in Photos--------------*/
-.zoom-img {
-  float: left;
-  position: relative;
-  width: 100%;
-  height: 320px;
-  overflow: hidden;
-}
-
-.zoom-img .img-card {
-  position: absolute;
-  overflow: hidden;
-}
-
-.img-card img {
-  -webkit-transition: 0.8s ease;
-  transition: 0.8s ease;
-}
-
-.card:hover .zoom-img img {
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
-}
-
-/*=========================About Us=========================*/
-.about {
-  display: flex;
-  flex-flow: row wrap;
-  align-items: center;
-  justify-content: center;
-  padding: 150px;
-}
-
-.about-img {
-  flex: 1;
-}
-
-.about-img img {
-  width: 500px;
-  height: 700px;
-  box-shadow: 2px 2px 6px 0 rgba(0, 0, 0, 0.3);
-}
-
-.about-text {
-  flex: 1;
-  /*width: 100px;*/
-  display: flex;
-  flex-flow: column wrap;
-}
-
-.about-text small,
-.about-text p,
-.about-text input,
-.about-text a {
-  flex: 1;
-  font-family: Roboto;
-}
-
-.about-text small {
-  color: #ffc342;
-  font-size: 18px;
-}
-
-.about-text h2 {
-  flex: 1;
-  font-family: Barlow Condensed;
-  font-size: 60px;
-  color: #191d34;
-  width: 450px;
-}
-
-.about-text label {
-  padding-bottom: 10px;
-  color: #506172;
-  font-weight: bolder;
-  font-family: Roboto;
-  letter-spacing: 1px;
-}
-
-.about-text p {
-  width: 500px;
-  line-height: 30px;
-  color: #506172;
-  font-weight: bolder;
-  padding: 50px 0;
-}
-
-.about-text a {
-  background-color: #ece9f1;
-  border: 2px solid #014b85;
-  text-decoration: none;
-  border-radius: 5px;
-  width: 180px;
-  padding: 20px;
-  text-align: center;
-  margin-top: 50px;
-  color: #014b85;
-  font-weight: bolder;
-  font-size: 14px;
-}
-
-.about-text a:hover {
-  background-color: #2618f2;
-  color: #4753f5;
-}
-
-/*===============Footer===================*/
-.footer {
-  background-image: url("https://th.bing.com/th/id/OIP.anp0XQz24UeOEE5qf-5swQHaEo?pid=ImgDet&rs=1");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 100%;
-  height: 670px;
-  position: relative;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.footer::before {
-  position: absolute;
-  content: "";
-  display: block;
-  background-color: rgba(0, 0, 36, 0.8);
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-}
-
-.footer .links {
-  position: relative;
-  color: #f73b3b;
-  flex: 1;
-  display: flex;
-  flex-flow: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.links ul {
-  list-style-type: none;
-}
-
-.links h3 {
-  font-family: Barlow Condensed;
-  font-weight: normal;
-  font-size: 23px;
-  margin-bottom: 15px;
-}
-
-.links li {
-  font-family: Roboto;
-  cursor: pointer;
-  padding: 15px 0;
-}
-
-.links li:hover {
-  color: #ffa801;
-}
-
-/*==========================Responsive=============================*/
-@media all and (max-width: 1172px) {
-  .banner-text-item .form {
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-    width: 50%;
-  }
-
-  .banner-text-item .form input,
-  .banner-text-item .form .date,
-  .banner-text-item .form a {
-    flex: 1;
-    margin-bottom: 5px;
-    font-size: 14px;
-  }
-
-  .banner-text-item .form input {
-    width: 60%;
-  }
-
-  .banner-text-item .form .date {
-    width: 30%;
-  }
-
-  .banner-text-item .form .book {
-    width: 10%;
-    font-size: 14px;
-  }
-
-  .banner-heading h1 {
-    font-size: 60px;
-  }
-}
-
-@media all and (max-width: 1414px) {
-  .banner-text-item .form input {
-    width: 40%;
-  }
-
-  .banner-text-item .form .date {
-    width: 30%;
-  }
-
-  .banner-text-item .form .book {
-    width: 20%;
-    font-size: 14px;
-  }
-}
-
-@media all and (max-width: 942px) {
-  .nav-bar {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: auto;
-    text-align: center;
-    position: static;
-  }
-
-  .logo {
-    flex: 1;
-    font-size: 30px;
-    margin: 10px auto;
-    font-family: Satisfy;
-    color: #fde02f;
-  }
-
-  .nav-bar ul {
-    display: none;
-  }
-
-  .nav-bar ul li {
-    flex: 1;
-    margin-bottom: 5px;
-    font-size: 14px;
-  }
-
-  .services {
-    display: flex;
-    flex-flow: column wrap;
-  }
-
-  .services .service-item {
-    flex: 1;
-    margin-bottom: -130px;
-    width: 400px;
-  }
-
-  .places-text {
-    margin-top: 200px;
-  }
-}
-
-@media all and (max-width: 928px) {
-  .banner .form input,
-  a {
-    font-size: 12px;
-  }
-}
-
-@media all and (max-width: 1173px) {
-  .banner .form {
-    background-color: transparent;
-  }
-}
-
-@media all and (max-width: 1194px) {
-  .places .card-box p {
-    font-size: 14px;
-  }
-}
-
-@media all and (max-width: 1086px) {
-  .places .cards .text {
-    line-height: 40px;
-  }
-
-  .cards .text .h2 {
-    font-size: 12px;
-  }
-
-  .cards .img-card img {
-    height: 260px;
-  }
-}
-
-@media all and (max-width: 974px) {
-  .cards {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(6, 1fr);
-    grid-gap: 20px;
-  }
-
-  .card {
-    width: 300px;
-    height: 500px;
-    margin: auto;
-  }
-
-  .cards .text {
-    padding: 5px;
-    font-family: Barlow Condensed;
-  }
-}
-
-@media all and (max-width: 1334px) {
-  .about-img img {
-    width: 300px;
-    height: 500px;
-  }
-}
-
-@media all and (max-width: 1116px) {
-  .about {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .about-img {
-    flex: 1;
-    margin-bottom: 20px;
-  }
-
-  .about-text {
-    flex: 1;
-    margin: auto;
-    text-align: center;
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .about-text h2 {
-    font-size: 35px;
-  }
-
-  .about-img img {
-    width: 400px;
-    height: 400px;
-  }
-}
-
-@media all and (max-width: 708px) {
-  .footer {
-    width: 100%;
-    height: 670px;
-    position: relative;
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-    align-items: center;
-  }
-}

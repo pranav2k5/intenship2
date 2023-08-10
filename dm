@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="index.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
@@ -192,5 +192,4 @@
 .final{
   max-width: 100%;
   height: auto;
-}
 }
